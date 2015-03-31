@@ -9,6 +9,6 @@ class TestProgram {
 		val quienCommiteo= new Tp;
 		//quienCommiteo.ultimoEnHacerCommit();
 		
-		Assert.assertEquals("Juan Jose Petelski", quienCommiteo.ultimoEnHacerCommit());
+		Assert.assertEquals("Leandro Emanuel Salomon", quienCommiteo.ultimoEnHacerCommit());
 	}
 }
